@@ -14,7 +14,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
      
-      title: "prekshya Poudyal",
+      title: "Demo APP",
       theme:ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -42,7 +42,7 @@ class _homepageState extends State<homepage> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          "Prekshya Poudyal"
+          "Demo APP"
         ),
         
       ),
